@@ -3,7 +3,7 @@
 This is an official PyTorch implementation of "[**FDCNX-UNet Frequency Dynamic ConvNeXt UNet with Linear Attention for Building Segmentation**]".
 
 # Introduction
-with the rapid development of remote sensing technology and deep learning, significant progress has been made in building segmentation from remote sensing images using semantic segmentation models. Currently, the encoderdecoder architecture is the most widely adopted framework in building segmentation research, though challenges such as blurred boundaries and poor segmentation performance for small targets persist. This is primarily due to network limitations in encoder feature extraction capability and decoder processing of transmission features. To address these challenges, we propose an encoder-decoder network named FDCNX-UNet capable of capturing global context.
+with the rapid development of remote sensing technology and deep learning, significant progress has been made in building segmentation from remote sensing images using semantic segmentation models. Currently, the encoder-decoder architecture is the most widely adopted framework in building segmentation research, though challenges such as blurred boundaries and poor segmentation performance for small targets persist. This is primarily due to network limitations in encoder feature extraction capability and decoder processing of transmission features. To address these challenges, we propose an encoder-decoder network named FDCNX-UNet capable of capturing global context.
 <center> 
 <img src="DRAU-Net.png" width="auto" height="auto">
 </center>
